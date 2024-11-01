@@ -1,0 +1,36 @@
+#smugmug_picture_insert div.current {
+	height: 360;
+}
+
+#smugmug_picture_insert div.image_select{
+  width: 400px;
+  height: 160px;
+  overflow: auto;
+  border: solid 1px;
+}
+
+#smugmug_picture_insert tr.select {
+  border-bottom: solid 2px;
+}
+
+#smugmug_picture_insert td.select {
+  text-align: center;
+  vertical-align: middle;
+  padding: 0px;
+  border-bottom: solid 2px;
+  border: solid 1px;
+  border-collapse: collapse;
+}
+
+#smugmug_picture_insert div.select {
+  white-space: nowrap;
+  vertical-align: middle;
+  padding: 6px;
+  padding-bottom: 8px;
+}
+
+
+#smugmug_picture_insert img.select {
+  border: solid 0px;
+  vertical-align: middle;
+}
